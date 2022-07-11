@@ -1,8 +1,10 @@
 import './App.css';
+import Component1 from './Component1';
 
 function App() {
   return (
     <>
+      <Component1 />
     </>
   );
 }

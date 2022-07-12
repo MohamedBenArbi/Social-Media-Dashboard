@@ -7,7 +7,7 @@ export default function Component1(props) {
     return (
 
 
-        <div className={'flex flex-col items-center justify-around w-1/6 m-3 border-t-4 rounded-md bg-Bl-100 h-1/4 ' + (props.tp == 'fb' ? 'border-Bl-200' : '') + (props.tp == 'ig' ? 'border-purple-400' : '') + (props.tp == 'tw' ? 'border-Bl-400' : '') + (props.tp == 'yt' ? 'border-Rd-100' : '')}
+        <div className={'flex flex-col items-center justify-around w-1/6 m-3 border-t-4 rounded-md bg-Bl-100 h-full ' + (props.tp == 'fb' ? 'border-Bl-200' : '') + (props.tp == 'ig' ? 'border-purple-400' : '') + (props.tp == 'tw' ? 'border-Bl-400' : '') + (props.tp == 'yt' ? 'border-Rd-100' : '')}
         >
 
             <div className='flex items-center justify-center '>

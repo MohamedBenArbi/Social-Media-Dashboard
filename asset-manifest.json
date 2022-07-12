@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/Social-Media-Dashboard/static/css/main.fd2d3b58.css",
-    "main.js": "/Social-Media-Dashboard/static/js/main.7ba0597d.js",
+    "main.css": "/Social-Media-Dashboard/static/css/main.9f3adcfb.css",
+    "main.js": "/Social-Media-Dashboard/static/js/main.2e90251b.js",
+    "static/media/icon-instagram.svg": "/Social-Media-Dashboard/static/media/icon-instagram.568b5795d56c7d9247f495cb5488f8be.svg",
     "index.html": "/Social-Media-Dashboard/index.html",
+    "static/media/icon-twitter.svg": "/Social-Media-Dashboard/static/media/icon-twitter.a0c5f64d440de29ad911970d8d8eb821.svg",
+    "static/media/icon-youtube.svg": "/Social-Media-Dashboard/static/media/icon-youtube.cad14335e1f2ede979c61c8cb1a6f6f5.svg",
     "static/media/icon-facebook.svg": "/Social-Media-Dashboard/static/media/icon-facebook.8deee3e3b5c57f63a1f487e146852570.svg",
+    "static/media/icon-down.svg": "/Social-Media-Dashboard/static/media/icon-down.0c77426d8f1ab70c4ae629868c263878.svg",
     "static/media/icon-up.svg": "/Social-Media-Dashboard/static/media/icon-up.359200b20d83a37cfb26d6de21236570.svg",
-    "main.fd2d3b58.css.map": "/Social-Media-Dashboard/static/css/main.fd2d3b58.css.map",
-    "main.7ba0597d.js.map": "/Social-Media-Dashboard/static/js/main.7ba0597d.js.map"
+    "main.9f3adcfb.css.map": "/Social-Media-Dashboard/static/css/main.9f3adcfb.css.map",
+    "main.2e90251b.js.map": "/Social-Media-Dashboard/static/js/main.2e90251b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd2d3b58.css",
-    "static/js/main.7ba0597d.js"
+    "static/css/main.9f3adcfb.css",
+    "static/js/main.2e90251b.js"
   ]
 }

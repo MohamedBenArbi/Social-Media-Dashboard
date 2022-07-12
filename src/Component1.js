@@ -10,7 +10,7 @@ export default function Component1() {
 
                 <div className='flex items-center justify-center '>
                     <img className='mr-2' src={fb} />
-                    <p className='text-sm text-gray-400'>@nathanf</p>
+                    <p className='text-sm text-gray-400'>@Mohamed Ben Arbi</p>
                 </div>
 
                 <div className='flex flex-col items-center justify-center'>
